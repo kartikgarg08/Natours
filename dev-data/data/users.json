@@ -1,0 +1,182 @@
+[
+  {
+    "_id": "5c8a1d5b0190b214360dc057",
+    "name": "Kartik Garg",
+    "email": "admin@natours.io",
+    "role": "admin",
+    "active": true,
+    "photo": "user-1.jpg",
+    "password": "$2a$12$aer19Kqru2wps3Kh67slReOf9GCW22CApQouMbGlaOb.V10yYgggi"
+  },
+  {
+    "_id": "5c8a1dfa2f8fb814b56fa181",
+    "name": "Lourdes Browning",
+    "email": "loulou@example.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-2.jpg",
+    "password": "$2a$12$v5Pn1exyN1dhWrPCBB2.muBsjbMPeevu6OCR/rDG.59n2Ul25fi1C"
+  },
+  {
+    "_id": "5c8a1e1a2f8fb814b56fa182",
+    "name": "Sophie Louise Hart",
+    "email": "sophie@example.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-3.jpg",
+    "password": "$2a$12$Oi0Cd8uTMeJZqycdpe40/O0ZmtFDg0MqoAARqwncKNtfKmWhplE0K"
+  },
+  {
+    "_id": "5c8a1ec62f8fb814b56fa183",
+    "name": "Ayla Cornell",
+    "email": "ayls@example.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-4.jpg",
+    "password": "$2a$12$x5RinHkWswP.sHwOdv.NUu3OivWBzQBlab4uKWZC54H6RTJKOhoF2"
+  },
+  {
+    "_id": "5c8a1f292f8fb814b56fa184",
+    "name": "Leo Gillespie",
+    "email": "leo@example.com",
+    "role": "guide",
+    "active": true,
+    "photo": "user-5.jpg",
+    "password": "$2a$12$H3fBQY7hWV2EkO5jMQfuEubwCFTMFeJkBfhhb.C7lOrIDEbxOY062"
+  },
+  {
+    "_id": "5c8a1f4e2f8fb814b56fa185",
+    "name": "Jennifer Hardy",
+    "email": "jennifer@example.com",
+    "role": "guide",
+    "active": true,
+    "photo": "user-6.jpg",
+    "password": "$2a$12$yHyBiWJTp5lbLkqoVjAybeeUbm3WoPIPCgOxWs4CwUJtKgscFlBPC"
+  },
+  {
+    "_id": "5c8a201e2f8fb814b56fa186",
+    "name": "Kate Morrison",
+    "email": "kate@example.com",
+    "role": "guide",
+    "active": true,
+    "photo": "user-7.jpg",
+    "password": "$2a$12$px4h//HXwSu4D2/1N3.FQ.byuxm0HjpvsYBQpdNh18nrgJ4YBveWu"
+  },
+  {
+    "_id": "5c8a20d32f8fb814b56fa187",
+    "name": "Eliana Stout",
+    "email": "eliana@example.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-8.jpg",
+    "password": "$2a$12$OM9yNzl0y09vMlj7qtJaH.NJClHXRh/F4Tw3ua8z/OZBhVbzTGABe"
+  },
+  {
+    "_id": "5c8a211f2f8fb814b56fa188",
+    "name": "Cristian Vega",
+    "email": "chris@example.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-9.jpg",
+    "password": "$2a$12$asszAzqETP84OjVOfmdb4eP8WhZzcUyKJMsgNP7ymQJt0hWbKr9xO"
+  },
+  {
+    "_id": "5c8a21d02f8fb814b56fa189",
+    "name": "Steve T. Scaife",
+    "email": "steve@example.com",
+    "role": "lead-guide",
+    "active": true,
+    "photo": "user-10.jpg",
+    "password": "$2a$12$lze3RxTM4bEM5f6WGcpKEeZ4eAaXgmpM2s.j3FqNeJotkMU2iW5cS"
+  },
+  {
+    "_id": "5c8a21f22f8fb814b56fa18a",
+    "name": "Aarav Lynn",
+    "email": "aarav@example.com",
+    "role": "lead-guide",
+    "active": true,
+    "photo": "user-11.jpg",
+    "password": "$2a$12$urwgzsZZ7hWw8g05SP09nulewHo4JfVrU.ZB7nthhj2tSDPLaVGSu"
+  },
+  {
+    "_id": "5c8a22c62f8fb814b56fa18b",
+    "name": "Miyah Myles",
+    "email": "miyah@example.com",
+    "role": "lead-guide",
+    "active": true,
+    "photo": "user-12.jpg",
+    "password": "$2a$12$yx5lU5GUdDnxmg4p4UkaPO53cTo1Unw.ijB0A7fL.1GtaHBy/zZTO"
+  },
+  {
+    "_id": "5c8a23412f8fb814b56fa18c",
+    "name": "Ben Hadley",
+    "email": "ben@example.com",
+    "role": "guide",
+    "active": true,
+    "photo": "user-13.jpg",
+    "password": "$2a$12$.OjO.Oah0pDQssUnorZX0Odu2NIxbcVj79BqK.aSg41de1FtMGUw6"
+  },
+  {
+    "_id": "5c8a23c82f8fb814b56fa18d",
+    "name": "Laura Wilson",
+    "email": "laura@example.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-14.jpg",
+    "password": "$2a$12$t2zJSeo/8iCtjOnpBepyhu2tMa/Fu2f8X4HVgVWkt37Pmi6bp/5M6"
+  },
+  {
+    "_id": "5c8a23de2f8fb814b56fa18e",
+    "name": "Max Smith",
+    "email": "max@example.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-15.jpg",
+    "password": "$2a$12$zcq9h1xp7FAyHKU1x5Ig8elFzAN7zusYEXkA12CaCM5CW70NLv4i."
+  },
+  {
+    "_id": "5c8a24282f8fb814b56fa18f",
+    "name": "Isabel Kirkland",
+    "email": "isabel@example.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-16.jpg",
+    "password": "$2a$12$TJW/c5LZNVTfYtHK2lHWzOWYzCHsH2H9SMTu8Pkf2cI4DZ9OF0hrW"
+  },
+  {
+    "_id": "5c8a24402f8fb814b56fa190",
+    "name": "Alexander Jones",
+    "email": "alex@example.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-17.jpg",
+    "password": "$2a$12$1RRhuCkuKrQPDuXiT6Ua1OhoJxGCaAL.FgDXrVuM4bwh8YlfuNkqi"
+  },
+  {
+    "_id": "5c8a245f2f8fb814b56fa191",
+    "name": "Eduardo Hernandez",
+    "email": "edu@example.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-18.jpg",
+    "password": "$2a$12$AD3qtmWl1HWdYsj7IOyf5O2ZlJYYZe1aDmAJ1u3CAt4D93Rsu.tYK"
+  },
+  {
+    "_id": "5c8a24822f8fb814b56fa192",
+    "name": "John Riley",
+    "email": "john@example.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-19.jpg",
+    "password": "$2a$12$/.RU5xMbVlcQzjn3VTJhRefrIWK9bl52JCXurdYpVdwHouZN95XkG"
+  },
+  {
+    "_id": "5c8a24a02f8fb814b56fa193",
+    "name": "Lisa Brown",
+    "email": "lisa@example.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-20.jpg",
+    "password": "$2a$12$FT0CplttYv.rA1lVDWp/NO2C9Iuxbt4uK4sZPfnAKk7QKuRgtpGji"
+  }
+]
