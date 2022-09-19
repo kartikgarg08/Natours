@@ -1,8 +1,12 @@
 # Natours Application
 
-Deployed: https://natours-web-app-2022.herokuapp.com/
+*Goal* - Created an app where users can book tours of their choice and view the tours they have booked.
 
-Built using modern technologies: Node.js, Express, MongoDB and Mongoose.
+*Technologies used* - CRUD operations, NodeJS, Express, MongoDB, Stripe for payments.
+
+*Result* - People compared the tours and decided which one to take for adventure and memory-making.
+
+*Deployed* - https://natours-web-app-2022.herokuapp.com/
 
 -------------------------------
 **Login Credentials:**
