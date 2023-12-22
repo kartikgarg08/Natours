@@ -1,10 +1,10 @@
 # Natours Application
 
-*Goal* - Created an app where users can book tours of their choice and view the tours they have booked.
+*Goal* - Designed and developed, an innovative tour booking web application, enabling users to effortlessly book tours of their choice and conveniently access their booking history.
 
-*Technologies used* - CRUD operations, NodeJS, Express, MongoDB, Stripe for payments.
+*Technologies used* - CRUD, NodeJS, Express, MongoDB, Stripe (Payments).
 
-*Result* - People compared the tours and decided which one to take for adventure and memory-making.
+*Result* - Facilitated user decision-making by providing a platform for comparing tours, encouraging adventurous choices, and creating unforgettable memories. This successfully transformed the tour booking experience, offering a user-friendly interface and robust functionality.
 
 *Deployed* - https://natours-web-app-2022.herokuapp.com/
 
